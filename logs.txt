@@ -1,0 +1,57 @@
+2022-02-26 22:52:31.256 Initialized tornado logs
+2022-02-26 22:52:31.258 Loaded backend agg version unknown.
+2022-02-26 22:52:31.259 Setting up signal handler
+2022-02-26 22:52:31.259 Using selector: SelectSelector
+2022-02-26 22:52:31.261 Starting server...
+2022-02-26 22:52:31.261 Serving static content from C:\Users\acer\AppData\Local\Programs\Python\Python39\lib\site-packages\streamlit\static
+2022-02-26 22:52:31.262 Server started on port 8501
+2022-02-26 22:52:31.262 Server state: State.INITIAL -> State.WAITING_FOR_FIRST_BROWSER
+2022-02-26 22:52:31.390 Popen(['git', 'version'], cwd=C:\Users\acer\Desktop\testing, universal_newlines=False, shell=None, istream=None)
+2022-02-26 22:52:31.399 Skipping PyPI version check
+2022-02-26 22:52:34.199 No singleton. Registering one.
+2022-02-26 22:52:34.201 Watcher created for C:\Users\acer\Desktop\testing\app.py
+2022-02-26 22:52:34.201 AppSession initialized (id=0bd7a9b7-dcbc-4e95-b52f-9153ea3a80c3)
+2022-02-26 22:52:34.201 Created new session for ws 1750619605216. Session ID: 0bd7a9b7-dcbc-4e95-b52f-9153ea3a80c3
+2022-02-26 22:52:34.201 Server state: State.WAITING_FOR_FIRST_BROWSER -> State.ONE_OR_MORE_BROWSERS_CONNECTED
+2022-02-26 22:52:34.216 Received the following back message:
+rerun_script {
+  widget_states {
+  }
+}
+
+2022-02-26 22:52:34.217 Beginning script thread
+2022-02-26 22:52:34.218 Running script RerunData(query_string='', widget_states=)
+2022-02-26 22:52:34.218 Disconnecting files for session with ID 0bd7a9b7-dcbc-4e95-b52f-9153ea3a80c3
+2022-02-26 22:52:34.218 Sessions still active: dict_keys([])
+2022-02-26 22:52:34.218 Files: 0; Sessions with files: 0
+2022-02-26 22:52:34.219 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-02-26 22:52:36.128 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:37.178 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.431 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.455 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.455 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.532 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.536 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.537 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.568 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:38.569 Ignoring file C:\Users\acer\Desktop\testing\logs.txt.
+Watched_files: {'C:\\Users\\acer\\Desktop\\testing\\app.py': WatchedFile(md5='254e5844d48860c2902f8b1029653afb', modification_time=1645895219.9056027, on_file_changed=<blinker.base.Signal object at 0x000001979911E070>)}
+2022-02-26 22:52:39.507 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-02-26 22:52:39.507 Deleting expired files...
+2022-02-26 22:52:39.550 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-02-26 22:52:39.860 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-02-26 23:28:30.508 Shutting down (id=0bd7a9b7-dcbc-4e95-b52f-9153ea3a80c3)
+2022-02-26 23:28:30.509 Disconnecting files for session with ID 0bd7a9b7-dcbc-4e95-b52f-9153ea3a80c3
+2022-02-26 23:28:30.509 Sessions still active: dict_keys([])
+2022-02-26 23:28:30.509 Files: 0; Sessions with files: 0
+2022-02-26 23:28:30.509 Deleting expired files...
+2022-02-26 23:28:30.510 Server state: State.ONE_OR_MORE_BROWSERS_CONNECTED -> State.NO_BROWSERS_CONNECTED
